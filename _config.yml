@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Raymond Lian
 description              : Raymond Lian - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/Fall-2025-portfolio-Lian/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
