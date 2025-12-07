@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Raymond Lian - Curriculum Vitae
+title: Raymond Lian - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 3.6/4.0 | Graduation: May, 2028
+  GPA: 3.59/4.0 | Graduation: May, 2028
 
 - **[New Utrecht High School]**  
   *High School Diploma*  
