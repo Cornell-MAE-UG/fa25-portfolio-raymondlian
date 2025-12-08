@@ -1,8 +1,9 @@
 ---
 layout: project
 title: Statics HW 4
-description: We had to design a frame/mechanism to lift the maximum possible weight to the highest possible height.
+description:
 technologies: 
-image: assets/images/Statics-HW-4.png
+image: assets/images/Statics HW 4 Portfolio.jpeg
 ---
 
+We had to design a frame/mechanism to lift the maximum possible weight to the highest possible height.
