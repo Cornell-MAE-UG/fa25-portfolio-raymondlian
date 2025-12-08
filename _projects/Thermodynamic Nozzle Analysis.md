@@ -1,3 +1,12 @@
+---
+layout: project
+title: Thermo
+description: 
+technologies:
+image: /assets/images/Nozzle.png
+---
+
+
 Raymond Lian  
 Thermodynamic device: nozzle of a gas pump  
 Schematic of a nozzle						picture of a nozzle
