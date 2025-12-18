@@ -10,7 +10,7 @@ image: /assets/images/Nozzle.png
 Raymond Lian  
 Thermodynamic device: nozzle of a gas pump  
 Schematic of a nozzle						picture of a nozzle
-![][image6]									![][image7]
+![Schematic of nozzle][assets/images/Schematic.jpeg]	![nozzle picture][assets/images/Nozzle.png]
 Description of Nozzle  
 A nozzle is a type of thermodynamic device that increases the speed of the fluid as it passes. In this example, the fluid is gas and the nozzle increases the speed of the gas as it exits the nozzle which is useful to move the gas into the gas tank of a car. This speeding up process is due to the change in cross sectional area of the nozzle. The gas goes through a large cross sectional area in the tube then when it reaches the nozzle, the cross sectional area gets smaller. This decrease in cross section area is responsible for increasing the speed of the fluid.   
 System Diagram  
