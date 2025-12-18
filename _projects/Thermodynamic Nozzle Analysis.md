@@ -18,8 +18,8 @@ This is a control volume system because we are only tracking the fluid inside th
 
 For the following equations, we are assuming steady state and adiabatic.  
 Mass Balance:  
-![Mass Balance]({{assets/images/Mass Balance 2.png | relative_url }})
-![Mass Balance]({{assets/images/Mass Balance.jpeg | relative_url }})
+![]({{"assets/images/Mass Balance 2.png" | relative_url }})
+![]({{"assets/images/Mass Balance.png" | relative_url }})
 
 Energy Balance:  
 ![][image2]  
