@@ -8,16 +8,18 @@ image: /assets/images/Nozzle.png
 
 
 Raymond Lian  
-Thermodynamic device: nozzle of a gas pump  
+Thermodynamic device: Nozzle of a gas pump  
 ![Schematic of nozzle]({{"assets/images/Schematic.jpeg" | relative_url }})	
-![nozzle picture][{"assets/images/Nozzle.png"}]
-Description of Nozzle  
+##Description of Nozzle  
 A nozzle is a type of thermodynamic device that increases the speed of the fluid as it passes. In this example, the fluid is gas and the nozzle increases the speed of the gas as it exits the nozzle which is useful to move the gas into the gas tank of a car. This speeding up process is due to the change in cross sectional area of the nozzle. The gas goes through a large cross sectional area in the tube then when it reaches the nozzle, the cross sectional area gets smaller. This decrease in cross section area is responsible for increasing the speed of the fluid.   
-System Diagram  
+##System Diagram  
+![System Diagram]({{"assets/images/CV Boundary.jpeg" | relative_url }})
 This is a control volume system because we are only tracking the fluid inside the nozzle. We have gas entering the nozzle from the larger cross section area and exiting from the smaller cross section area. The nozzle is adiabatic so no heat transfer and it doesn’t produce or require work.  
+
 For the following equations, we are assuming steady state and adiabatic.  
 Mass Balance:  
-![][image1]
+![Mass Balance]({{assets/images/Mass Balance 2.png | relative_url }})
+![Mass Balance]({{assets/images/Mass Balance.jpeg | relative_url }})
 
 Energy Balance:  
 ![][image2]  
