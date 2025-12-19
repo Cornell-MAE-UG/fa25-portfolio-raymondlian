@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Thermodynamics Proj
+title: Thermodynamics Project
 description: 
 technologies:
 image: /assets/images/Nozzle.png
