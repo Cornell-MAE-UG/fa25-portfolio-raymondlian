@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Thermodynamics Pro
+title: Thermodynamics Device Analysis
 description: 
 technologies:
 image: /assets/images/Nozzle.png
