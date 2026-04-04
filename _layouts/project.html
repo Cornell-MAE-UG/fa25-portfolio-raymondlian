@@ -2,16 +2,25 @@
 layout: default
 ---
 {% if page.pdf %}
-<meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}">
+  <meta http-equiv="refresh" content="0; url={{ page.pdf | relative_url }}">
 {% endif %}
 
 <h1>{{ page.title }}</h1>
 
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+<div class="project-content">
+
+{% if page.images %}
+    {% for img in page.images %}
+      <img src="{{ img | relative_url }}" class="inline-image">
+    {% endfor %}
+{% endif %}
 
 
 
-{{ content }}
+
+{{ content | markdownify }}
+
+</div>
 
 <p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
 

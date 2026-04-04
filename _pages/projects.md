@@ -4,15 +4,30 @@ title: Raymond Lian - Portfolio
 permalink: /projects/
 ---
 
+
+## MAE 2250 Open Design Project Table of Contents
+
+{% for project in site.projects %}
+{% if project.toc == true %}
+- [{{ project.title }}]({{ project.url | relative_url }})
+{% endif %}
+{% endfor %}
+
+---
+
+## Other Projects
+
 <div class="gallery-container">
-<div class="project-gallery">
+  <div class="project-gallery">
     {% for project in site.projects %}
-      <div class="gallery-item">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          <p>{{ project.title}}</p>
-        </a>
-      </div>
+      {% if project.toc != true %}
+        <div class="gallery-item">
+          <a href="{{ project.url | relative_url }}">
+            <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+            <p>{{ project.title }}</p>
+          </a>
+        </div>
+      {% endif %}
     {% endfor %}
-</div>
+  </div>
 </div>
