@@ -2,7 +2,7 @@
 layout: project
 title: 2. First Functional Prototype For Open Design Project
 description:
-technologies:
+#technologies:
 image: /assets/images/odpfirstprototype.png
 images:
   - /assets/images/odpfirstprototype.png
