@@ -2,7 +2,7 @@
 layout: project
 title: 1. Client Outreach For Open Design Project
 description:
-#technologies:
+technologies:
 image: /assets/images/SLF_On_Finger.jpg
 toc: True
 ---
